@@ -1,4 +1,4 @@
-Last updated: 2026-01-28
+Last updated: 2026-01-28.
 
 # ProceduraSpace Etsy Automation Tool (Private Seller App)
 
