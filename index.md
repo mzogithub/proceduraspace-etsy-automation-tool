@@ -3,6 +3,8 @@
 This is a personal, private automation tool I’m building to manage my own Etsy shop:
 https://www.etsy.com/shop/proceduraspace
 
+Contact: beyondmzo+proceduraspace@gmail.com
+
 ## What it does
 ProceduraSpace Studio Tools automates parts of my daily listing workflow for my single Etsy shop. It is designed to:
 
@@ -27,7 +29,7 @@ ProceduraSpace Studio Tools automates parts of my daily listing workflow for my 
 
 ## Compliance notes
 - All items published are digital downloads created from my own creative direction.
-- Where required, listings will include appropriate disclosure if AI tools were used in the creation process (per Etsy policy).
+- Where required, listings will include appropriate disclosure if AI tools were used in the creation process (per Etsy’s policies).
 - This project is **not** for scraping Etsy, cloning Etsy, or mass-listing spam.
 
 ## Status
