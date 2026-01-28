@@ -1,3 +1,5 @@
+Last updated: 2026-01-28
+
 # ProceduraSpace Etsy Automation Tool (Private Seller App)
 
 This is a personal, private automation tool I’m building to manage my own Etsy shop:
